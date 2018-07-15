@@ -13,7 +13,7 @@ Vue.use(Mint);
 Vue.prototype.$echarts = echarts
 // Vue.use(ElementUI)
 Vue.config.productionTip = false
-console.log(666)
+// console.log(34324234324)
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
